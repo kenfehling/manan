@@ -1,5 +1,3 @@
-# tlt-calendar
-
 `npm install` to install dependencies
 
 Also requires [webpack](https://webpack.github.io) and [webpack-dev-server](https://webpack.github.io/docs/webpack-dev-server.html)

@@ -3,4 +3,17 @@
   color: #CCC;
   padding: 30px;
   text-align: center;
+
+  .title {
+    margin-bottom: 10px;
+  }
+
+  ul {
+    display: inline-block;
+  }
+
+  a {
+    color: #69F;
+    display: block;
+  }
 }
